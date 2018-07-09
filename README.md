@@ -1,4 +1,4 @@
-#Event Manager
+# Event Manager
 
 Event Manager demonstrates using the following:
 
@@ -10,7 +10,7 @@ Event Manager demonstrates using the following:
 - Webpack   
 - JS Promises   
 
-##How To Use
+## How To Use
 
 1. Use `.env.example` to create your own `.env` file.
 2. Run `npm install` and `npm run webpack` to generate necessary files.
